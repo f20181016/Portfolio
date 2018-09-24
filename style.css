@@ -1,0 +1,61 @@
+.col-sm-4{
+	background-image: url("Screenshot from 2018-09-24 17-46-23.png") ;
+	background-size: cover;
+	text-align: center;
+
+}
+.detail{
+	text-align: center;
+}
+
+.link{
+	text-align: center;
+
+}
+.col-sm-8{
+	background-color: rgb(60, 60, 64);
+	text-align: center;
+	text-decoration-color: white;
+}
+
+#Vivek{
+	color: white;
+}
+
+.something{
+	color: white;
+	text-align: left;
+	font-family: initial;
+}
+.me{
+	color: white;
+	text-align: left;
+	font-family: initial;
+}
+
+.mera{
+	float:left;
+	width: 50%;
+	text-align: center;
+
+}
+.mera::after {
+	content:'';
+	clear:both;
+	display: table;
+}
+.something1{
+	color: white;
+	text-align: center;
+	font-family: initial;
+}
+.me1{
+	color: white;
+	text-align: center;
+	font-family: initial;
+}
+.something2{
+	color: blue;
+    text-align: center;
+    font-family: initial;
+}
