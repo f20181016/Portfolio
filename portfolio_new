@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Vivek Arora</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="stylep.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script> 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+ </head>
+<body  data-spy="scroll" data-target=".navbar" data-offset="50">
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-4">
+    	
+
+      <br><br><br>
+      <p> 
+         Hi There<br>
+         My Name is Vivek Arora.<br>
+         An undergrad student in Computer Science at BITS Pilani K. K. Birla Goa Campus
+      </p>
+      <br><br><br><br><br><br><br>
+    </div>
+    <div class="col-sm-8">
+    		<nav class="navbar navbar-expand-sm navbar-dark fixed-top">  
+    	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+               <span class="navbar-toggler-icon"></span>
+              </button>
+           <div class="collapse navbar-collapse" id="collapsibleNavbar">
+           	
+               <ul class="navbar-nav">
+                 <li class="nav-item">
+                  <a class="nav-link" href="#About">About Me</a>
+                 </li>
+                 <li class="nav-item">
+                  <a class="nav-link" href="#Skillset">Skill Set</a>
+                 </li>
+                 <li class="nav-item">
+                  <a class="nav-link" href="#Projects">Projects</a>
+                 </li>
+               </ul>
+           </div>
+        </nav>
+        <br><br>
+        <div class="About" id="About">
+      	    <br>
+           <h1><u>About Me</u></h1>
+           <br>
+           <p>
+              Hi I am Vivek and currently pursuing my engineering in the field of computer science at BITS Pilani K. K. Birla Goa Campus.
+              I am extremely passionate about new innovations and automobile development.I love reading about the advancements on the field of technology.
+              <br>
+              <br>
+             I  haven't done any projects as of now but currently trying to improve my skills in the field of Web Application Development , Python , C and trying my hand around encryption processes. I am an avid reader and absolutely love running.
+           </p>
+        </div>
+           <div class="dropdown">
+               <button type="button" class="btn dropdown-toggle" data-toggle="dropdown">Awards</button>
+                  <div class="dropdown-menu">
+                  <a class="dropdown-item" href="http://www.kennedyhighglobalschool.com/">Mr. Kennedy 2016</a>
+                  <a class="dropdown-item" href="http://time.com/">Times Person of the Year 2006</a> 
+            </div>
+            <br><hr>
+
+        <div class="Skillset" id="Skillset">
+        	<h1><u>Skill Set</u></h1>
+
+             <p>HTML</p>
+             <div class="container">
+              <div class="skills html">60%</div>
+             </div>
+
+            <p>CSS</p>
+              <div class="container">
+               <div class="skills css">60%</div>
+              </div>
+
+            <p>Java Script</p>
+             <div class="container">
+             <div class="skills js">45%</div>
+            </div>
+
+           <p>Python</p>
+            <div class="container">
+             <div class="skills py">40%</div>
+            </div>
+
+        </div>
+     
+
+
+    </div>
+
+ <footer class="container-fluid" style="background-color: black">
+  </footer>
+ 
+
